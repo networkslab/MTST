@@ -1,4 +1,5 @@
-# Multiscale Time Series Transformer (MTST)
+# Multi-resolution Time-Series Transformer for Long-term Forecasting (MTST). [arxiv](https://arxiv.org/pdf/2311.04147.pdf)
+This paper has been accepted at AISTATS 2024.
 
 
 ## Getting Started
