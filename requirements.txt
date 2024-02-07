@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+torch==1.11.0
+timm
+yacs
+ipdb
+einpos==0.6.0
+mlflow
